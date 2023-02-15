@@ -1,4 +1,4 @@
-# Semantic Similarity (NLP) - Recommend movies I might like
+# Semantic Similarity (NLP) - Recommend movies a viewer might like
 
 This program measure similarities of a description of a move that I have watched with other movies that are available.
 
