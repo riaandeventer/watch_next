@@ -1,8 +1,7 @@
-# Software Engineer: RIAAN VAN DEVENTER (SN: RV22110005417)
-# This was programmed for the Software Engineering BOOTCAMP
+# Software Engineer: RIAAN DEVENTER
 # Written on 15 February 2023
 
-# ************** L3T12 - TASK2 ASSIGNMENT ************** 
+#------------------------------------------------------------------------------------------------
 # ● Read in the movies.txt file. Each separate line is a description of a different movie.
 # ● Create a function to return which movies a user would watch next if they have watched 
 #       Planet Hulk with the description “Will he save their world or destroy it? When the Hulk 
@@ -10,7 +9,7 @@
 #       him into space to a planet where the Hulk can live in peace. Unfortunately, Hulk land on the
 #       planet Sakaar where he is sold into slavery and trained as a gladiator.”
 # ● The function should take in the description as a parameter and return the title of the most similar movie.
-#******************************************************
+#------------------------------------------------------------------------------------------------
 
 # ****************************************************** 
 #   Import Libraries
