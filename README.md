@@ -1,6 +1,6 @@
 # Semantic Similarity (NLP) - Recommend movies a viewer might like
 
-This program measure similarities of a description of a move that I have watched with other movies that are available.
+This program measure similarities of a movie description that a user watched with other movies that are available.
 
 ## Description
 
