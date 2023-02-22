@@ -110,7 +110,7 @@ If the login was successful, let's push our build to docker hub with the followi
 ```
 >docker push [docker hub username without square brackets]/watch_next
 ```
-We have now created our project on docker hub. Go to Docker Hub and confirm that there is now a semantic_sim repository
+We have now created our project on docker hub. Go to Docker Hub and confirm that there is now a watch_next repository
 indicating that a push took place.
 
 If you have been working with Docker Desktop, we are no done with Docker Desktop and will complete the rest with Docker Playground.
