@@ -10,7 +10,7 @@ The program uses spacy to measure the similarity between move descriptions.
 * Call function with description of movie watched as input an function returns 3 recommendations.
 
 ## Table of Content
-1.  Implementing the website in a virtual environment.
+1.  Implementing the program in a virtual environment.
     - 1.1   Dependencies
     - 1.2   Copying Files
     - 1.3   Run Program
